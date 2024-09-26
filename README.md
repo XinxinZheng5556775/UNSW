@@ -30,6 +30,62 @@ A `project life circle` is `the series of phases`(`Phase`: time bound, with a st
 ### Project Process Groups
 ```mermaid
           graph LR
-          A0[Initiaing] ==> A1[Planning] ==> A2[Executing] ==> A3[Monitoring & Controlling] ==> A4[Closing]
+          A0[Initiating] ==> A1[Planning] ==> A2[Executing] ==> A3[Monitoring & Controlling] ==> A4[Closing]
 ```
+**ProjectPhases≠ProjectGroup**
 
+![ProjectPhases≠ProjectGroup](https://github.com/XinxinZheng5556775/UNSW/blob/COMP9820/Diagram/ProcessPhases%E2%89%A0ProcessGroup.jpg?raw=true)
+
+#### Initiating(Week1-3)
+* Deciding `what` you are going to do, showing `why` this is beneficial, get commitments of stakeholders, and obtaining `authorisation` to start the project.
+* Key precesses:
+  * Identify `stakeholders`
+  * Defining the `project scope`:problems, objectives, requirements, deliverables etc.
+  * Develop the `project charter`
+  * Assign a PM
+
+
+ #### Planning(Week1-6)
+ * Deciding `how` you are going to acheive the objectives and `create the roadmap` that you will follow.
+ * Key process
+   * `Work Breakdown Structure(WBS)`
+   * `Schedule`:define activities, activity duration and scheduling
+   * `Cost`:estimate cost and determine budget
+   * `Quality`:set quality targets and measures
+   * `Resource`:HR, procurement plan, activity resources
+   * `Communication`:tools, frequency
+   * `Risk Management`:identify and analyse risks, solutions
+   *  Procurement plan(采购计划)
+   *  Develop the `Project Management Plan(PMP)`:integrate components
+
+  #### Executing(Outside the Scope)
+  * When you get to execute the project plan, you bring resources on board, get people to perdorm the work, and manage the project.
+  * Key process:
+    * Develop and manage the team
+    * Directing project work
+    * Completing work planned in PMP
+    * Coodinating resources
+    * Managing stakeholders
+    * Integrating activities整合活动(project managers's most critical job)
+    * Conduct procurements
+
+ #### Monitor & Control(Week7-8)
+ * While the work is underway, you need to `track the progress, monitor and control the project`. If the project is out of track, work out the solutions.
+ * Key processes:
+   * Gather data: starting date, duration, costs
+   * Evaluate progress: compare against the plan, check objectives
+   * Readjust your plan
+   * Request the change:approve or reject the change
+   * Perform integrated change: manage scope, schedule, cost, quality after the change
+   * Report progress of the change
+   * Monitor and control risks
+
+ #### Closing(Week9)
+ * When the project is over, you should post-review the project, evaluate success, and celebrate acheivements.
+ * Key processes:
+   * Interpret success
+   * Identify lessons learned
+   * Measure stakeholder satisfaction
+   * Finalise costs
+   * Formally close out project activities
+   * Give recognition for achievements 
